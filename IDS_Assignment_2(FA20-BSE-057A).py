@@ -1,5 +1,4 @@
 
-# Online Python - IDE, Editor, Compiler, Interpreter
 
 # 29-09-2023
 # CSC461 – Assignment2 – Regular Expressions
